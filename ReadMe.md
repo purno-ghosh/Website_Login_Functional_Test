@@ -3,6 +3,9 @@ Web-automation test project. In this project work with Selenium Web-Driver, Juin
 
 the website link is http://automationpractice.com/index.php
 
+##Test Case
+https://prnt.sc/257bli9
+
 ## Technology:
 - Tool: selenium
 - IDE: IntelIJ
